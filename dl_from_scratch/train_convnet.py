@@ -1,6 +1,6 @@
 # coding: utf-8
 import sys, os
-sys.path.append(os.pardir)  # 親ディレクトリのファイルをインポートするための設定
+sys.path.append('C:\\Users\\schunsuke_2020\\Desktop\\python\\python-sample\\dl_from_scratch')
 import numpy as np
 import matplotlib.pyplot as plt
 from dataset.mnist import load_mnist
